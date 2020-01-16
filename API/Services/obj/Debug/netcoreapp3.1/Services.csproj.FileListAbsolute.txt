@@ -1,0 +1,14 @@
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Data.dll
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Data.pdb
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\programing\API\API\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\programing\API\API\Services\obj\Debug\netcoreapp3.1\Services.pdb
